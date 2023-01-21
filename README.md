@@ -9,4 +9,5 @@ tried learning by documentation rather than following any tutorial.
 ## Why dovumentation
 Learning by documentation has the following benefits that I have observed during this revision
 <li> Cut to the chase learning </li>
-
+<li> Saves a lot of time</li>
+<li> You learn as an active learner rather than passively listening</li>
