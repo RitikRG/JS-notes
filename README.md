@@ -8,3 +8,5 @@ tried learning by documentation rather than following any tutorial.
 
 ## Why dovumentation
 Learning by documentation has the following benefits that I have observed during this revision
+<li> Cut to the chase learning </li>
+
